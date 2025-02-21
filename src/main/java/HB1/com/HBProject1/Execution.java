@@ -10,7 +10,7 @@ import org.hibernate.cfg.Configuration;
 public class Execution {
 
 	public static void main(String[] args) {
-		
+		//hello
 		Scanner sc=new Scanner(System.in);
 	
 		/*	ORM -> Hibernate
